@@ -1,0 +1,14 @@
+D:\Visual\finalcontrol3\bin\Debug\net8.0\finalcontrol3.exe
+D:\Visual\finalcontrol3\bin\Debug\net8.0\finalcontrol3.deps.json
+D:\Visual\finalcontrol3\bin\Debug\net8.0\finalcontrol3.runtimeconfig.json
+D:\Visual\finalcontrol3\bin\Debug\net8.0\finalcontrol3.dll
+D:\Visual\finalcontrol3\bin\Debug\net8.0\finalcontrol3.pdb
+D:\Visual\finalcontrol3\obj\Debug\net8.0\finalcontrol3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\finalcontrol3\obj\Debug\net8.0\finalcontrol3.AssemblyInfoInputs.cache
+D:\Visual\finalcontrol3\obj\Debug\net8.0\finalcontrol3.AssemblyInfo.cs
+D:\Visual\finalcontrol3\obj\Debug\net8.0\finalcontrol3.csproj.CoreCompileInputs.cache
+D:\Visual\finalcontrol3\obj\Debug\net8.0\finalcontrol3.dll
+D:\Visual\finalcontrol3\obj\Debug\net8.0\refint\finalcontrol3.dll
+D:\Visual\finalcontrol3\obj\Debug\net8.0\finalcontrol3.pdb
+D:\Visual\finalcontrol3\obj\Debug\net8.0\finalcontrol3.genruntimeconfig.cache
+D:\Visual\finalcontrol3\obj\Debug\net8.0\ref\finalcontrol3.dll
