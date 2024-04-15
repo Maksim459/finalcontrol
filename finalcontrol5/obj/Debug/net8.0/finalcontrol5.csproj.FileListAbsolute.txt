@@ -1,0 +1,14 @@
+D:\Visual\finalcontrol5\bin\Debug\net8.0\finalcontrol5.exe
+D:\Visual\finalcontrol5\bin\Debug\net8.0\finalcontrol5.deps.json
+D:\Visual\finalcontrol5\bin\Debug\net8.0\finalcontrol5.runtimeconfig.json
+D:\Visual\finalcontrol5\bin\Debug\net8.0\finalcontrol5.dll
+D:\Visual\finalcontrol5\bin\Debug\net8.0\finalcontrol5.pdb
+D:\Visual\finalcontrol5\obj\Debug\net8.0\finalcontrol5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\finalcontrol5\obj\Debug\net8.0\finalcontrol5.AssemblyInfoInputs.cache
+D:\Visual\finalcontrol5\obj\Debug\net8.0\finalcontrol5.AssemblyInfo.cs
+D:\Visual\finalcontrol5\obj\Debug\net8.0\finalcontrol5.csproj.CoreCompileInputs.cache
+D:\Visual\finalcontrol5\obj\Debug\net8.0\finalcontrol5.dll
+D:\Visual\finalcontrol5\obj\Debug\net8.0\refint\finalcontrol5.dll
+D:\Visual\finalcontrol5\obj\Debug\net8.0\finalcontrol5.pdb
+D:\Visual\finalcontrol5\obj\Debug\net8.0\finalcontrol5.genruntimeconfig.cache
+D:\Visual\finalcontrol5\obj\Debug\net8.0\ref\finalcontrol5.dll
